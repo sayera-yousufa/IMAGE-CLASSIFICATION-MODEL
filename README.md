@@ -69,7 +69,11 @@ Install the required libraries before running the notebook:
 * scikit-learn
 
 ## OUTPUT
+<img width="217" alt="Image" src="https://github.com/user-attachments/assets/7d2eb034-aefb-4d2c-95a1-b2e5fc82aac4" />
 
+classes = ['airplane','automobile','bird', 'cat','deer','dog','frog','horse','ship','truck']
+
+The image at index 7 corresponds to the class 'frog' from the dataset, as shown in the output."
 
 ##  RESULTS
 
