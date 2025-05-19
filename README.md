@@ -1,17 +1,3 @@
-# IMAGE-CLASSIFICATION-MODEL
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: SAYERA YOUSUFA
-
-*INTERN ID*: CT04DK237
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 #  Image Classification Using Convolutional Neural Networks (CNN)
 
 ##  Project Description
